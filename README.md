@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>Nodejs Social Media Authentication<br><br>
-	<img src="http://expresswriters.com/wp-content/uploads/2015/09/google-new-logo-450x450.jpg">
+	<img src="http://expresswriters.com/wp-content/uploads/2015/09/google-new-logo-450x450.jpg" height="200px" width="200px">
 	<img src="https://pngimg.com/uploads/github/github_PNG58.png">
 	</h1>
 </div>
