@@ -2,7 +2,7 @@
 	<h1>Nodejs Social Media Authentication<br><br>
 	<img src="http://expresswriters.com/wp-content/uploads/2015/09/google-new-logo-450x450.jpg" height="200px" width="200px">
 	<img src="https://cdn.afterdawn.fi/v3/news/600x400/github-logo.jpg"  height="200px" width="250px">
-	<img src="https://i.pinimg.com/originals/41/b0/ed/41b0edd10bd1fcca1833c2e651fcfdaa.png"  height="200px" width="250px">
+	<img src="https://i.pinimg.com/originals/41/b0/ed/41b0edd10bd1fcca1833c2e651fcfdaa.png"  height="200px" width="200px">
 	</h1>
 </div>
 
